@@ -1,0 +1,63 @@
+#container{
+    max-width: 600px;
+    margin: 30px auto;
+
+}
+/* .trans{
+    transition: background 1s;
+} */
+.but{
+    width: 30%;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+    border-radius: 25px;
+    background-color: white;
+    transition: background .7s;
+}
+.heading{
+    
+    font-family: 'Bangers', cursive;
+    background-color: steelblue;
+    color: white;
+    padding-bottom: 15px;
+}
+.color{
+    font-size: 50px;
+    font-weight: 500;
+}
+.btn_disappear{
+color: black;
+}
+.head1{
+    font-weight: 400;
+}
+body{
+    background-color: black;
+}
+
+.msg{
+    display: inline-block;
+    padding: 2px 5px;
+    margin: 0 80px;
+}
+.btn{
+    height: 100%;
+    margin: 0;
+    border: 0px;
+    border-radius: 0px;
+    padding: 2px 5px;
+    display: inline-block;
+    color: steelblue;
+    font-weight:500;
+    
+    
+}
+.btn:hover{
+    background-color: steelblue;
+    color: white;
+}
+.btn:focus{
+    outline: none;
+    box-shadow: none;
+}
